@@ -12,7 +12,7 @@ string control;
 map::map() {
 	
 	control="T";
-	y=1;
+	y=0;
 	
 	}
 
